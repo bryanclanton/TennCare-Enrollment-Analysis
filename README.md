@@ -21,7 +21,7 @@ Bar graphs were used to simply and quickly show a comparison between the differe
 ## Project Screenshots
 
 ### Total Enrollees
-![Alt text](readmeimg/total_enrollees.PNG "Total Enrollees")
+![Alt text](readmeimg/total_tenncare_enrollees.PNG "Total Enrollees")
 
 ### Enrollment vs. Unemployment
 ![Alt text](readmeimg/enrollment_unemployment.PNG "Enrollment vs. Unemployment")
