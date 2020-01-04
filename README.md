@@ -1,22 +1,25 @@
 # TennCare Enrollment Analysis
 
-### Inspiration
+## Inspiration
 With the growing cost of healthcare anticipated to rise by an average of 5.5 percent per year over the next decade — growing from $3.5 trillion in 2017 to $6 trillion by 2027, I wanted to look at the Tennessee Medicaid program (TennCare) to see how it's numbers have been impacted over the last 9 years and what counties have been impacted the most.
 
-### Data Selection
-To answer these questions, I looked at TennCare's public enrollment numbers and compared it to unemployment rates, population rates, birth rates and poverty rates.
+## Data Question
+What is the main contributing factor to TennCare Enrollment numbers?
 
+## Data Selection
+To answer this question, I looked at TennCare's public enrollment numbers and compared it to unemployment rates, population rates, birth rates and poverty rates.
 
-### Visualization
+## Visualization
 Bar graphs were used to simply and quickly show a comparison between the different datasets.
-
 
 ## Tools Used
 
-* **Excel** for creating the bar charts
-* **Pandas** for data cleaning and analysis.
+* **Excel** for creating bar charts
+* **Python using Pandas** for data cleaning and analysis.
 * **Power BI** for data visualization
 
+## TennCare Analysis presentation
+[Click Here!](https://docs.google.com/presentation/d/1V5OZwQXjsTgNb1DW-7VQimrevUW-bonL2rFWDEO6TvY/edit?usp=sharing)
 
 ## Project Screenshots
 
