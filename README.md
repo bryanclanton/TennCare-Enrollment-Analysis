@@ -24,7 +24,7 @@ Bar graphs were used to simply and quickly show a comparison between the differe
 ![Alt text](readmeimg/total_tenncare_enrollees.PNG "Total Enrollees")
 
 ### Enrollment vs. Unemployment
-![Alt text](readmeimg/enrollment_unemployment.PNG "Enrollment vs. Unemployment")
+![Alt text](readmeimg/enrollment_unemployment_change.PNG "Enrollment vs. Unemployment")
 
 ### Power BI Dashboard
 ![Alt text](readmeimg/power_bi.PNG "Power BI Dashboard")
