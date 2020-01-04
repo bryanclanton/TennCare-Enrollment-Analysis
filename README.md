@@ -19,7 +19,7 @@ Bar graphs were used to simply and quickly show a comparison between the differe
 * **Power BI** for data visualization
 
 ## TennCare Analysis presentation
-[Click Here!](https://docs.google.com/presentation/d/1V5OZwQXjsTgNb1DW-7VQimrevUW-bonL2rFWDEO6TvY/edit?usp=sharing)
+[Click Here](https://docs.google.com/presentation/d/1V5OZwQXjsTgNb1DW-7VQimrevUW-bonL2rFWDEO6TvY/present?usp=sharing) to view this presentation in Google Slides
 
 ## Project Screenshots
 
