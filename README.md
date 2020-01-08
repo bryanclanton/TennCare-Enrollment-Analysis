@@ -21,6 +21,9 @@ Bar graphs were used to simply and quickly show a comparison between the differe
 ## TennCare Analysis presentation
 [Click Here](https://docs.google.com/presentation/d/1V5OZwQXjsTgNb1DW-7VQimrevUW-bonL2rFWDEO6TvY/present?usp=sharing) to view this presentation in Google Slides
 
+## TennCare Enrollment Analysis by County
+[Click Here](https://public.tableau.com/profile/clanton#!/vizhome/TennCareEnrollmentbyCounty_15783700550750/Dashboard1) to view my Tableau dashboard
+
 ## Project Screenshots
 
 ### Total Enrollees
