@@ -24,8 +24,6 @@ Bar graphs were used to simply and quickly show a comparison between the differe
 ## TennCare Enrollment Analysis by County
 [Click Here](https://public.tableau.com/profile/clanton#!/vizhome/TennCareEnrollmentbyCounty_15783700550750/Dashboard1) to view my Tableau dashboard
 
-[Click Here](https://app.powerbi.com/view?r=eyJrIjoiNzJlNTMxZjQtMzQ2Zi00NWRjLWFkYmEtZTU5Mjg1ZDBlOWE2IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) to view my Power BI dashboard
-
 ## Project Screenshots
 
 ### Total Enrollees
